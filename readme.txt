@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git add github.com on line.
 Creating a new branch is quick AND simple.
 Add merge.
+changes
